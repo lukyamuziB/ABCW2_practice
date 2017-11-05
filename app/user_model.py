@@ -1,5 +1,5 @@
-from . Category import Category
-from . Recipes import Recipes
+from . import Category
+from . import Recipes
 
 
 class User():

@@ -1,4 +1,4 @@
-from .. models.user_model import User
+from app.user_model import User
 
 import pytest
 @pytest.fixture

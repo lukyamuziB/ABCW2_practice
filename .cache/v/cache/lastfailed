@@ -1,0 +1,16 @@
+{
+  "app/Recipes.py": true,
+  "app/user_model.py": true,
+  "tests/test_user.py": true,
+  "tests/test_user.py::test_edit_category[blah-jah-sydgybdysg]": true,
+  "tests/test_user.py::test_edit_category[buy-get-yugacysbdtyug]": true,
+  "tests/test_user.py::test_edit_category[hdshg-dgysgyg-gdyvgv]": true,
+  "tests/test_user.py::test_for_category_datatype": true,
+  "tests/test_user.py::test_user_args_are_strings": true,
+  "tests/test_user.py::test_user_can_delee_recipe": true,
+  "tests/test_user.py::test_user_can_delete_recipe": true,
+  "tests/test_user.py::test_user_can_edit_recipe[salads-kjhjh-cucumber-cabbage]": true,
+  "tests/test_user.py::test_user_can_edit_recipe[soups-hhfbfs-mash soup-carrot_soup]": true,
+  "tests/test_user.py::test_user_can_make_recipe": true,
+  "tests/test_user.py::test_user_cant_delete_non_existent_recipe": true
+}
