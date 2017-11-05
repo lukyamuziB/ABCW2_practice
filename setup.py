@@ -26,12 +26,3 @@ class PyTest(TestCommand):
         import pytest
         errno = pytest.main(shlex.split(self.pytest_args))
         sys.exit(errno)
-
-
-setup(name='catinabox',
-      version='0.0.1',
-      author='Keep Python Weird',
-      author_email='about@keeppythonweird.com',
-      install_requires=requirements,
-      cmdclass={'test': PyTest},
-      packages=find_packages())
